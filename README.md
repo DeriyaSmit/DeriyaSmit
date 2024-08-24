@@ -1,4 +1,4 @@
-![Hii 👋, I'm Smit]([https://github.com/DeriyaSmit/DeriyaSmit/blob/main/header.png](https://github.com/DeriyaSmit/Smit-Deriya/blob/main/header.png))
+![Hii 👋, I'm Smit](https://github.com/DeriyaSmit/DriyaSmit/blob/main/header.png)
 
 ## 😉 About Me
 I'm Smit, a 4th year B.Tech Computer Science student 🧑‍🎓 at Parul University, Gujarat 🏫. Passionate about working with data and uncovering insights 📊 from it.
